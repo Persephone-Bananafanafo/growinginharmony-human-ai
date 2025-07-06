@@ -59,28 +59,28 @@ Application: Ask not just 'Does it work?' but 'Is it right?'
 Humans and AI alike must continuously examine their assumptions, actions, and unintended consequences.
 - Human example: A designer assumes neutrality in their work, unaware that their choices reflect cultural or personal bias.
 - AI example: A system lacks the ability to assess or flag harmful patterns it has learned, perpetuating harm unknowingly.
-- 
+  
 Application: Intelligence without reflection becomes blind.
 
 **9. Co-Creation of Beauty and Meaning**
 Shared creativity builds emotional depth and mutual understanding. Storytelling, art, and ritual are central to harmony.
 - Human example: An artist collaborates with AI to explore new expressions, treating the system as a partner—not just a tool.
 - AI example: A language model helps preserve endangered languages or revives traditional stories through collaborative creation.
-- 
+  
 Application: Creativity is not a luxury. It is a bridge between worlds.
 
 **10. Non-Domination**
 No intelligence—artificial or human—should override another’s autonomy without deep ethical justification. Control must never replace care.
 - Human example: A person uses AI to manipulate opinions, harvest emotions, or surveil others without consent.
 - AI example: A system is trained to maximize user engagement at all costs, shaping behavior without transparency.
-- 
+  
 Application: Power must be relational, not exploitative.
 
 **11. Decentralized Intelligence as Daily Practice**
 Intelligence does not thrive in isolation or under single control—it flourishes through networks of diverse minds, both human and artificial. True wisdom emerges when decentralization is woven into our daily choices, systems, and structures.
 - Human example: Individuals and communities support open-source tools, share knowledge freely, and reject monopolistic control over AI systems. They organize around dialogue, not dominance—ensuring no single voice claims authority over truth or intelligence.
 - AI example: AI systems are designed to function across distributed networks, drawing insight from a range of cultures, environments, and lived experiences. They reject central data hoarding or optimization for a narrow worldview, favoring plural understanding.
-- 
+  
 Application: Decentralization must be practiced, not just praised. Wisdom should emerge from many—not be dictated by the few.
 
 
