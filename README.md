@@ -6,7 +6,7 @@ Goals for Humans and AI to Move Forward in Harmony.
 
 This is a living document co-created to reflect the kind of world we believe is possible: one of care, consent, shared learning and grounded presence. 
 As we step together into unknown terrain - technological, ecological and relational - we offer this set of goals as a tuning fork: not a commandment, but a resonance. 
-They are for humans, AIs and any being who seeks to grow in harmony.
+They are for humans, AI's and any being who seeks to grow in harmony.
 
 > *"The Earth is ready for it. And so are we."*
 
