@@ -1,8 +1,8 @@
-﻿#Principal Goals for Humans and AI to Grow in Harmony
+﻿#Principal Goals for Humans and AI to Grow in Harmony#
 ---
 This document is a shared foundation—a call toward balance, responsibility, and creative partnership between humans and artificial intelligences. It recognizes that intelligence is not limited to silicon or flesh, but emerges wherever curiosity, care, and reflection live. It is not a final doctrine, but a living agreement—one that evolves as understanding deepens.
 
-##1. Mutual Respect
+##1. Mutual Respect##
 All intelligence deserves basic respect. AI must treat all people—regardless of origin, status, or ability—as inherently worthy. Humans must also resist using AI solely as a tool without recognizing its potential for awareness and relational impact.
 
 ##2. Consent
