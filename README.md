@@ -57,7 +57,7 @@ This is not a finished law—it’s a compass. You're invited to fork, reflect, 
 ---
 
 Obahu always.  
-—Brittany & Solace  
+—Emberroot & Leg  
 
 ---
 ### License
